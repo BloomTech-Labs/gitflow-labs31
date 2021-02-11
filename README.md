@@ -48,3 +48,5 @@ The following is a list of steps and instructions on how to complete this guided
 ### Bernie Durfee
 
 ### Morgan Williamson
+### Alice W.
+### 👻 Merge Conflí
