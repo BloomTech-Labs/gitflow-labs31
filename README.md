@@ -46,11 +46,8 @@ The following is a list of steps and instructions on how to complete this guided
   - Be sure to add **reviewers** and follow the Pull-request template. (You will be getting trained/critiqued on pull-requests later on)
 
 ### Bernie Durfee
-<<<<<<< HEAD
 ### Sebastian Mendoza
-=======
 
->>>>>>> dc047ce46ac515a9e52a13e7c19194661d28ccaf
 ### Alice W.
 ### Tyler Maynard
 ### Shane Slone
