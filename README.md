@@ -47,9 +47,5 @@ The following is a list of steps and instructions on how to complete this guided
 
 ### Bernie Durfee
 ### Alice W.
-<<<<<<< HEAD
 ### Chris
-=======
-### Andrew Poppenberg
->>>>>>> a567044a1e85f04c75ea405bd4349998cee6d171
 ### 👻 Merge Conflí
