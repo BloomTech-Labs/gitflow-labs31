@@ -48,13 +48,9 @@ The following is a list of steps and instructions on how to complete this guided
 ### Bernie Durfee
 
 ### Alice W.
-
-<<<<<<< HEAD
-### David 
-
-=======
+### Tyler Maynard
 ### Shane Slone
-
-### 👻 Merge Conflí
 ### starullo
->>>>>>> 3824b036c91b805d21e9c88740e12cbe1659faed
+### David 
+### Shane Slone
+### starullo
