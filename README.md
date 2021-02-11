@@ -47,4 +47,8 @@ The following is a list of steps and instructions on how to complete this guided
 
 ### Bernie Durfee
 ### Alice W.
+<<<<<<< HEAD
 ### Tyler Maynard
+=======
+### 👻 Merge Conflí
+>>>>>>> 00702a3ecdf6d074d65a03fc9b861707e84a74bc
