@@ -48,9 +48,13 @@ The following is a list of steps and instructions on how to complete this guided
 ### Bernie Durfee
 
 ### Alice W.
+<<<<<<< HEAD
+### Simone Ballard
+=======
 ### Tyler Maynard
 ### Shane Slone
 ### starullo
 ### David 
 ### Shane Slone
 ### starullo
+>>>>>>> dc047ce46ac515a9e52a13e7c19194661d28ccaf
